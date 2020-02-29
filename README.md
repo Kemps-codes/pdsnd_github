@@ -21,7 +21,7 @@ Based on the user input, the script provides descriptive statistics in the follo
 **<h3> Files used <h3>**
 1) Motivate bikeshare data January till June, 2017, csv files can be downloaded here: 
 https://drive.google.com/drive/folders/1lAt4wDYAHm8lf2XyTbyxNreemkOC4jbY
-2) Bikeshare script.ipynb - jupyter notebooks 
+2) Bikeshare script.ipynb - jupyter notebooks
 
 **<h3> Requirements <h3>**
 * Python 3 or above
@@ -30,5 +30,5 @@ https://drive.google.com/drive/folders/1lAt4wDYAHm8lf2XyTbyxNreemkOC4jbY
 * Jupyter 4 or above 
 
 **<h3> Resources <h3>**
-Pandas Documentation
-The Python Standard Library
+[Pandas Documentation](https://pandas.pydata.org/docs/)
+[The Python Standard Library](https://docs.python.org/3/)
